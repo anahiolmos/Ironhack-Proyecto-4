@@ -1,5 +1,6 @@
 # Ironhack Proyecto 4: Visualizing Real World Data
-Costos de Generación de Energía Eléctrica en México.
+
+**Costos de Generación de Energía Eléctrica en México.**
 
 Visualización realizada en Tableau: [Este es el link al proyecto.](https://public.tableau.com/views/Proyecto_4-VisualizingRealWorldData/Proyecto4-Historia?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
