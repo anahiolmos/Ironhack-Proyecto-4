@@ -4,7 +4,7 @@
 
 Visualización realizada en Tableau: [Este es el link al proyecto.](https://public.tableau.com/views/Proyecto_4-VisualizingRealWorldData/Proyecto4-Historia?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
-Se muestran las preguntas realizadas y las gráficas realizadas.
+Se muestran las preguntas y las gráficas realizadas.
 
 ## Preguntas
 - ¿Cuál es el costo de CFE por generar electricidad por tipo de tecnología?
